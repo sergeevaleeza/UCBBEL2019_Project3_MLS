@@ -1,5 +1,6 @@
-# Project-3
-Topics: US Export Vegetables and Fruit Volumn and Prices Summary </br>
+# US Export Vegetables and Fruit Volumn and Prices Summary
+## Project-3
+
 Responsibility: Create the DB, python and javascript to link them together then show the website with HTML and CSS.</br>
 Languages: Javascript, d3, Flask, SQLAlchemy, TensorFlow, Pandas, Leaflet and HTML.</br>
 Details:</br>
